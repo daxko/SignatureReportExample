@@ -1,0 +1,14 @@
+C:\repos\SignatureReportDemo\SignatureReportDemo\bin\Debug\SignatureReportDemo.exe.config
+C:\repos\SignatureReportDemo\SignatureReportDemo\bin\Debug\SignatureReportDemo.exe
+C:\repos\SignatureReportDemo\SignatureReportDemo\bin\Debug\SignatureReportDemo.pdb
+C:\repos\SignatureReportDemo\SignatureReportDemo\bin\Debug\EPPlus.dll
+C:\repos\SignatureReportDemo\SignatureReportDemo\bin\Debug\RestSharp.dll
+C:\repos\SignatureReportDemo\SignatureReportDemo\bin\Debug\RestSharp.xml
+C:\repos\SignatureReportDemo\SignatureReportDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\repos\SignatureReportDemo\SignatureReportDemo\obj\x86\Debug\SignatureReportDemo.LoginForm.resources
+C:\repos\SignatureReportDemo\SignatureReportDemo\obj\x86\Debug\SignatureReportDemo.MainForm.resources
+C:\repos\SignatureReportDemo\SignatureReportDemo\obj\x86\Debug\SignatureReportDemo.Properties.Resources.resources
+C:\repos\SignatureReportDemo\SignatureReportDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\repos\SignatureReportDemo\SignatureReportDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\repos\SignatureReportDemo\SignatureReportDemo\obj\x86\Debug\SignatureReportDemo.exe
+C:\repos\SignatureReportDemo\SignatureReportDemo\obj\x86\Debug\SignatureReportDemo.pdb
