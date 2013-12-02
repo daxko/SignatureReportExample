@@ -1,1 +1,5 @@
-This application should be used as a code sample for accessing the Daxko API to retrieve a child care attendance summary with signatures. You will be required to supply your API credentials.
+This application is intended to be an example of how to consume the API to pull child care rosters, attendance data, and signatures to build reports that comply with complex requirements of third-party payers. 
+
+Accessing the Daxko API requires API credentials. If you do not have API credentials, have your Daxko System Administrator contact support to request them.
+
+This reference implementation is provided AS IS and is UNSUPPORTED by Daxko.  
